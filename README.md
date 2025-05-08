@@ -64,7 +64,7 @@ E ignora registros com data anterior a **março de 2024**.
 
 ### 📁 Geração do CSV de saída
 
-Ao final do processamento, é gerado um arquivo chamado `resultados2.csv` com a seguinte estrutura:
+Ao final do processamento, é gerado um arquivo chamado `resultados.csv` com a seguinte estrutura:
 
 ```
 device;ano-mes;sensor;valor_maximo;valor_medio;valor_minimo
