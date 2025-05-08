@@ -7,7 +7,7 @@ Este projeto tem como objetivo processar uma base de dados contendo registros de
 Para compilar o programa, execute:
 
 ```bash
-gcc -o analise_iot analise_iot.c -lpthread
+gcc -o analise_iot Analise_IoT.c -lpthread
 ```
 
 ## ▶️ Execução
