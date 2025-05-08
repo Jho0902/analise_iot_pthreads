@@ -88,10 +88,10 @@ As threads são executadas em **modo usuário**, utilizando a API `pthreads` da 
 ## 🧪 Exemplo de execução
 
 ```bash
-./analise_iot dados_sensores.csv
-Total de registros válidos: 120452
-Usando 8 threads
-Processamento concluído. Resultados salvos em resultados2.csv
+./analise_iot devices.csv
+Total de registros válidos: 4175008
+Usando 2 threads
+Processamento concluído. Resultados salvos em resultados.csv
 ```
 
 ---
