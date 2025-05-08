@@ -95,7 +95,3 @@ Processamento concluído. Resultados salvos em resultados2.csv
 ```
 
 ---
-
-## 👥 Autoria
-
-Este programa foi desenvolvido como parte do trabalho da disciplina de Sistemas Operacionais (ou similar), com foco no uso de programação concorrente em C.
